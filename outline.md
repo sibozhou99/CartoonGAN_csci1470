@@ -55,5 +55,5 @@ Shiyu Liu, Sibo Zhou, Junhui Huang
 ## Division of Labor
 **Briefly outline who will be responsible for which part(s) of the project.**
 - **Junhui Huang**: Data Preparation, model implementation, written reports
-- **Sibou Zhou**: model implementation, written reports
+- **Sibo Zhou**: model implementation, written reports
 - **Shiyu Liu**: poster, model implementation, written reports
